@@ -36,7 +36,10 @@
         </nav>       
 <div>
 
+<div>
 <h1>Aloooo Test <h1>
+<p>olalalalala</p>
+</div>
 
 </div>
         <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" id="myOverlay"></div>                  
