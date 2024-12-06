@@ -36,10 +36,7 @@
         </nav>       
 <div>
 
-<div>
-<h1>Aloooo Test <h1>
-<p>olalalalala</p>
-</div>
+
 
 </div>
         <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" id="myOverlay"></div>                  
@@ -52,7 +49,8 @@
                     <h1 class="w3-xxxlarge">W3.CSS</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
-                    <h2>What is W3.CSS?</h2>                  
+                    <h2>What is W3.CSS?</h2>     
+                     <h1>aloooo maloo keloooo </h1>
                     <p>W3.CSS is a modern CSS framework with built-in responsiveness: !!!</p>                  
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
                         <li>Smaller and faster than other CSS frameworks.</li>
